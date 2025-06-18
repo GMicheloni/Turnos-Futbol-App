@@ -1,0 +1,21 @@
+.centered {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.turnoButton {
+  background-color: #ffd700; /* amarillo dorado */
+  color: #333; /* texto oscuro */
+  border: none;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  margin-top: 1rem;
+}
+
+.turnoButton:hover {
+  background-color: #ffcc00; /* un amarillo un poquito más oscuro al pasar el mouse */
+}
