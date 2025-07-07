@@ -9,7 +9,7 @@ Este proyecto es una aplicación web diseñada para gestionar los turnos de una 
 ### 🔙 Backend
 - **Node.js** + **Express**
 - **TypeScript**
-- **TypeORM** (u otro ORM si aplica)
+- **TypeORM** 
 - Arquitectura MVC (controladores, servicios, middlewares)
 - Validación de datos y rutas protegidas
 - Configuración de entorno con `.env`
